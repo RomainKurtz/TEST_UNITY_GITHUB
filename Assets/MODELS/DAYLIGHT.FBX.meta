@@ -1,0 +1,594 @@
+fileFormatVersion: 2
+guid: 11880454fb7a2d44c9fa635b98695567
+timeCreated: 1501592585
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Arena
+    100002: Arena Banners
+    100004: Arena_MeshPart0
+    100006: Arena_MeshPart1
+    100008: Ball Boy 1
+    100010: Ball Boy 2
+    100012: Ball Boy 3
+    100014: Ball Container
+    100016: Ball Girl 1
+    100018: Ball Girl 2
+    100020: Ball Girl 3
+    100022: Barriers
+    100024: Barriers_MeshPart0
+    100026: Barriers_MeshPart1
+    100028: Barriers_MeshPart2
+    100030: Barriers_MeshPart3
+    100032: Barriers_MeshPart4
+    100034: Barriers_MeshPart5
+    100036: Barriers_MeshPart6
+    100038: Barriers_MeshPart7
+    100040: Barriers_MeshPart8
+    100042: Big Banner 1
+    100044: Big Banner 2
+    100046: Chair Umpire Ref
+    100048: Court
+    100050: Court Banners
+    100052: Court Facing
+    100054: Court Lines
+    100056: Court Seat 01
+    100058: Court Seat 02
+    100060: Court Seat 03
+    100062: Court Seat 04
+    100064: Court Seat 05
+    100066: Court Seat 06
+    100068: Court Seat 07
+    100070: Court Seat 08
+    100072: Court Seat 09
+    100074: Court Seat 10
+    100076: Court Seat 11
+    100078: //RootNode
+    100080: Fan F 01 PROXY
+    100082: Fan F 02 PROXY
+    100084: Fan F 03 PROXY
+    100086: Fan F 04 PROXY
+    100088: Fan F 05 PROXY
+    100090: Fan F 06 PROXY
+    100092: Fan F 07 PROXY
+    100094: Fan F 08 PROXY
+    100096: Fan F 09 PROXY
+    100098: Fan F 10 PROXY
+    100100: Fan F 11 PROXY
+    100102: Fan F 12 PROXY
+    100104: Fan F 13 PROXY
+    100106: Fan F 14 PROXY
+    100108: Fan F 15 PROXY
+    100110: Fan M 01 PROXY
+    100112: Fan M 02 PROXY
+    100114: Fan M 03 PROXY
+    100116: Fan M 04 PROXY
+    100118: Fan M 05 PROXY
+    100120: Fan M 06 PROXY
+    100122: Fan M 07 PROXY
+    100124: Fan M 08 PROXY
+    100126: Fan M 09 PROXY
+    100128: Fan M 10 PROXY
+    100130: Fan M 11 PROXY
+    100132: Fan M 12 PROXY
+    100134: Fan M 13 PROXY
+    100136: Fan M 14 PROXY
+    100138: Fan M 15 PROXY
+    100140: Fan M 16 PROXY
+    100142: Fan M 17 PROXY
+    100144: Fan M 18 PROXY
+    100146: Fan M 19 PROXY
+    100148: Fan M 20 PROXY
+    100150: Fan M 21 PROXY
+    100152: Fan M 22 PROXY
+    100154: Fan M 23 PROXY
+    100156: Fan M 24 PROXY
+    100158: Fan M 25 PROXY
+    100160: Fan M 26 PROXY
+    100162: Fan M 27 PROXY
+    100164: Fan M 28 PROXY
+    100166: Fan M 29 PROXY
+    100168: Fan M 30 PROXY
+    100170: Fans S1 Distribution Splines
+    100172: Fans S2 Distribution Splines
+    100174: Fans S3 Distribution Splines
+    100176: Flag Animated
+    100178: Fridge
+    100180: Linesman 1
+    100182: Linesman 2
+    100184: Linesman 3
+    100186: Linesman 4
+    100188: Linesman 5
+    100190: Linesman Covers
+    100192: Lineswoman 1
+    100194: Lineswoman 2
+    100196: Lineswoman 3
+    100198: Lineswoman 4
+    100200: Lineswoman 5
+    100202: Luxury Suites Tables
+    100204: Match Time Clocks
+    100206: Microphones
+    100208: MS FANS S1
+    100210: MS FANS S2
+    100212: MS FANS S3
+    100214: MS Seats 01a C1 Folded S1
+    100216: MS Seats 01a C1 Folded S2
+    100218: MS Seats 01a C1 Folded S3
+    100220: MS Seats 01a C1 Open S1
+    100222: MS Seats 01a C1 Open S2
+    100224: MS Seats 01a C1 Open S3
+    100226: MS Seats 01a C2 Folded S1
+    100228: MS Seats 01a C2 Folded S3
+    100230: MS Seats 01a C2 Open S1
+    100232: MS Seats 01a C2 Open S3
+    100234: MS Seats 01b C1 Folded S1
+    100236: MS Seats 01b C1 Open S1
+    100238: MS Seats 01b C2 Folded S1
+    100240: MS Seats 01b C2 Open S1
+    100242: MS Seats 02a C1 Folded S1
+    100244: MS Seats 02a C1 Folded S3
+    100246: MS Seats 02a C1 Open S1
+    100248: MS Seats 02a C1 Open S3
+    100250: MS Seats 02a C2 Folded S1
+    100252: MS Seats 02a C2 Folded S3
+    100254: MS Seats 02a C2 Open S1
+    100256: MS Seats 02a C2 Open S3
+    100258: MS Seats 02b C1 Folded S1
+    100260: MS Seats 02b C1 Open S1
+    100262: MS Seats 02b C2 Folded S1
+    100264: MS Seats 02b C2 Open S1
+    100266: MS Seats 03 Folded
+    100268: MS Seats 03 Open
+    100270: Net
+    100272: Player 1
+    100274: Player 2
+    100276: Press Benches
+    100278: Row Numbers
+    100280: Score Screens
+    100282: Seat 01a C1 Folded PROXY
+    100284: Seat 01a C1 Open PROXY
+    100286: Seat 01a C2 Folded PROXY
+    100288: Seat 01a C2 Open PROXY
+    100290: Seat 01b C1 Folded PROXY
+    100292: Seat 01b C1 Open PROXY
+    100294: Seat 01b C2 Folded PROXY
+    100296: Seat 01b C2 Open PROXY
+    100298: Seat 02a C1 Folded PROXY
+    100300: Seat 02a C1 Open PROXY
+    100302: Seat 02a C2 Folded PROXY
+    100304: Seat 02a C2 Open PROXY
+    100306: Seat 02b C1 Folded PROXY
+    100308: Seat 02b C1 Open PROXY
+    100310: Seat 02b C2 Folded PROXY
+    100312: Seat 02b C2 Open PROXY
+    100314: Seat 03 Folded PROXY
+    100316: Seat 03 Open PROXY
+    100318: Seats 1a C1 Distribution Splines S1
+    100320: Seats 1a C1 Distribution Splines S2
+    100322: Seats 1a C1 Distribution Splines S3
+    100324: Seats 1a C2 Distribution Splines S1
+    100326: Seats 1a C2 Distribution Splines S3
+    100328: Seats 1b C1 Distribution Splines S1
+    100330: Seats 1b C2 Distribution Splines S1
+    100332: Seats 2a C1 Distribution Splines S1
+    100334: Seats 2a C1 Distribution Splines S3
+    100336: Seats 2a C2 Distribution Splines S1
+    100338: Seats 2a C2 Distribution Splines S3
+    100340: Seats 2b C1 Distribution Splines S1
+    100342: Seats 2b C2 Distribution Splines S1
+    100344: Seats 3 Distribution Splines
+    100346: Security Cameras
+    100348: Serve Speed Screens
+    100350: Stadium Lighting
+    100352: Stadium Lighting_MeshPart0
+    100354: Stadium Lighting_MeshPart1
+    100356: Stadium Lighting_MeshPart2
+    100358: Stair Steps
+    100360: TV Bim 1
+    100362: TV Bim 2
+    100364: Umpire Chair
+    100366: VRaySun
+    100368: VRaySun.Target
+    400000: Arena
+    400002: Arena Banners
+    400004: Arena_MeshPart0
+    400006: Arena_MeshPart1
+    400008: Ball Boy 1
+    400010: Ball Boy 2
+    400012: Ball Boy 3
+    400014: Ball Container
+    400016: Ball Girl 1
+    400018: Ball Girl 2
+    400020: Ball Girl 3
+    400022: Barriers
+    400024: Barriers_MeshPart0
+    400026: Barriers_MeshPart1
+    400028: Barriers_MeshPart2
+    400030: Barriers_MeshPart3
+    400032: Barriers_MeshPart4
+    400034: Barriers_MeshPart5
+    400036: Barriers_MeshPart6
+    400038: Barriers_MeshPart7
+    400040: Barriers_MeshPart8
+    400042: Big Banner 1
+    400044: Big Banner 2
+    400046: Chair Umpire Ref
+    400048: Court
+    400050: Court Banners
+    400052: Court Facing
+    400054: Court Lines
+    400056: Court Seat 01
+    400058: Court Seat 02
+    400060: Court Seat 03
+    400062: Court Seat 04
+    400064: Court Seat 05
+    400066: Court Seat 06
+    400068: Court Seat 07
+    400070: Court Seat 08
+    400072: Court Seat 09
+    400074: Court Seat 10
+    400076: Court Seat 11
+    400078: //RootNode
+    400080: Fan F 01 PROXY
+    400082: Fan F 02 PROXY
+    400084: Fan F 03 PROXY
+    400086: Fan F 04 PROXY
+    400088: Fan F 05 PROXY
+    400090: Fan F 06 PROXY
+    400092: Fan F 07 PROXY
+    400094: Fan F 08 PROXY
+    400096: Fan F 09 PROXY
+    400098: Fan F 10 PROXY
+    400100: Fan F 11 PROXY
+    400102: Fan F 12 PROXY
+    400104: Fan F 13 PROXY
+    400106: Fan F 14 PROXY
+    400108: Fan F 15 PROXY
+    400110: Fan M 01 PROXY
+    400112: Fan M 02 PROXY
+    400114: Fan M 03 PROXY
+    400116: Fan M 04 PROXY
+    400118: Fan M 05 PROXY
+    400120: Fan M 06 PROXY
+    400122: Fan M 07 PROXY
+    400124: Fan M 08 PROXY
+    400126: Fan M 09 PROXY
+    400128: Fan M 10 PROXY
+    400130: Fan M 11 PROXY
+    400132: Fan M 12 PROXY
+    400134: Fan M 13 PROXY
+    400136: Fan M 14 PROXY
+    400138: Fan M 15 PROXY
+    400140: Fan M 16 PROXY
+    400142: Fan M 17 PROXY
+    400144: Fan M 18 PROXY
+    400146: Fan M 19 PROXY
+    400148: Fan M 20 PROXY
+    400150: Fan M 21 PROXY
+    400152: Fan M 22 PROXY
+    400154: Fan M 23 PROXY
+    400156: Fan M 24 PROXY
+    400158: Fan M 25 PROXY
+    400160: Fan M 26 PROXY
+    400162: Fan M 27 PROXY
+    400164: Fan M 28 PROXY
+    400166: Fan M 29 PROXY
+    400168: Fan M 30 PROXY
+    400170: Fans S1 Distribution Splines
+    400172: Fans S2 Distribution Splines
+    400174: Fans S3 Distribution Splines
+    400176: Flag Animated
+    400178: Fridge
+    400180: Linesman 1
+    400182: Linesman 2
+    400184: Linesman 3
+    400186: Linesman 4
+    400188: Linesman 5
+    400190: Linesman Covers
+    400192: Lineswoman 1
+    400194: Lineswoman 2
+    400196: Lineswoman 3
+    400198: Lineswoman 4
+    400200: Lineswoman 5
+    400202: Luxury Suites Tables
+    400204: Match Time Clocks
+    400206: Microphones
+    400208: MS FANS S1
+    400210: MS FANS S2
+    400212: MS FANS S3
+    400214: MS Seats 01a C1 Folded S1
+    400216: MS Seats 01a C1 Folded S2
+    400218: MS Seats 01a C1 Folded S3
+    400220: MS Seats 01a C1 Open S1
+    400222: MS Seats 01a C1 Open S2
+    400224: MS Seats 01a C1 Open S3
+    400226: MS Seats 01a C2 Folded S1
+    400228: MS Seats 01a C2 Folded S3
+    400230: MS Seats 01a C2 Open S1
+    400232: MS Seats 01a C2 Open S3
+    400234: MS Seats 01b C1 Folded S1
+    400236: MS Seats 01b C1 Open S1
+    400238: MS Seats 01b C2 Folded S1
+    400240: MS Seats 01b C2 Open S1
+    400242: MS Seats 02a C1 Folded S1
+    400244: MS Seats 02a C1 Folded S3
+    400246: MS Seats 02a C1 Open S1
+    400248: MS Seats 02a C1 Open S3
+    400250: MS Seats 02a C2 Folded S1
+    400252: MS Seats 02a C2 Folded S3
+    400254: MS Seats 02a C2 Open S1
+    400256: MS Seats 02a C2 Open S3
+    400258: MS Seats 02b C1 Folded S1
+    400260: MS Seats 02b C1 Open S1
+    400262: MS Seats 02b C2 Folded S1
+    400264: MS Seats 02b C2 Open S1
+    400266: MS Seats 03 Folded
+    400268: MS Seats 03 Open
+    400270: Net
+    400272: Player 1
+    400274: Player 2
+    400276: Press Benches
+    400278: Row Numbers
+    400280: Score Screens
+    400282: Seat 01a C1 Folded PROXY
+    400284: Seat 01a C1 Open PROXY
+    400286: Seat 01a C2 Folded PROXY
+    400288: Seat 01a C2 Open PROXY
+    400290: Seat 01b C1 Folded PROXY
+    400292: Seat 01b C1 Open PROXY
+    400294: Seat 01b C2 Folded PROXY
+    400296: Seat 01b C2 Open PROXY
+    400298: Seat 02a C1 Folded PROXY
+    400300: Seat 02a C1 Open PROXY
+    400302: Seat 02a C2 Folded PROXY
+    400304: Seat 02a C2 Open PROXY
+    400306: Seat 02b C1 Folded PROXY
+    400308: Seat 02b C1 Open PROXY
+    400310: Seat 02b C2 Folded PROXY
+    400312: Seat 02b C2 Open PROXY
+    400314: Seat 03 Folded PROXY
+    400316: Seat 03 Open PROXY
+    400318: Seats 1a C1 Distribution Splines S1
+    400320: Seats 1a C1 Distribution Splines S2
+    400322: Seats 1a C1 Distribution Splines S3
+    400324: Seats 1a C2 Distribution Splines S1
+    400326: Seats 1a C2 Distribution Splines S3
+    400328: Seats 1b C1 Distribution Splines S1
+    400330: Seats 1b C2 Distribution Splines S1
+    400332: Seats 2a C1 Distribution Splines S1
+    400334: Seats 2a C1 Distribution Splines S3
+    400336: Seats 2a C2 Distribution Splines S1
+    400338: Seats 2a C2 Distribution Splines S3
+    400340: Seats 2b C1 Distribution Splines S1
+    400342: Seats 2b C2 Distribution Splines S1
+    400344: Seats 3 Distribution Splines
+    400346: Security Cameras
+    400348: Serve Speed Screens
+    400350: Stadium Lighting
+    400352: Stadium Lighting_MeshPart0
+    400354: Stadium Lighting_MeshPart1
+    400356: Stadium Lighting_MeshPart2
+    400358: Stair Steps
+    400360: TV Bim 1
+    400362: TV Bim 2
+    400364: Umpire Chair
+    400366: VRaySun
+    400368: VRaySun.Target
+    2300000: Arena Banners
+    2300002: Arena_MeshPart0
+    2300004: Arena_MeshPart1
+    2300006: Ball Container
+    2300008: Barriers_MeshPart0
+    2300010: Barriers_MeshPart1
+    2300012: Barriers_MeshPart2
+    2300014: Barriers_MeshPart3
+    2300016: Barriers_MeshPart4
+    2300018: Barriers_MeshPart5
+    2300020: Barriers_MeshPart6
+    2300022: Barriers_MeshPart7
+    2300024: Barriers_MeshPart8
+    2300026: Big Banner 1
+    2300028: Big Banner 2
+    2300030: Court
+    2300032: Court Banners
+    2300034: Court Facing
+    2300036: Court Lines
+    2300038: Court Seat 01
+    2300040: Court Seat 02
+    2300042: Court Seat 03
+    2300044: Court Seat 04
+    2300046: Court Seat 05
+    2300048: Court Seat 06
+    2300050: Court Seat 07
+    2300052: Court Seat 08
+    2300054: Court Seat 09
+    2300056: Court Seat 10
+    2300058: Court Seat 11
+    2300060: Flag Animated
+    2300062: Fridge
+    2300064: Linesman Covers
+    2300066: Luxury Suites Tables
+    2300068: Match Time Clocks
+    2300070: Microphones
+    2300072: Net
+    2300074: Press Benches
+    2300076: Row Numbers
+    2300078: Score Screens
+    2300080: Security Cameras
+    2300082: Serve Speed Screens
+    2300084: Stadium Lighting_MeshPart0
+    2300086: Stadium Lighting_MeshPart1
+    2300088: Stadium Lighting_MeshPart2
+    2300090: Stair Steps
+    2300092: TV Bim 1
+    2300094: TV Bim 2
+    2300096: Umpire Chair
+    3300000: Arena Banners
+    3300002: Arena_MeshPart0
+    3300004: Arena_MeshPart1
+    3300006: Ball Container
+    3300008: Barriers_MeshPart0
+    3300010: Barriers_MeshPart1
+    3300012: Barriers_MeshPart2
+    3300014: Barriers_MeshPart3
+    3300016: Barriers_MeshPart4
+    3300018: Barriers_MeshPart5
+    3300020: Barriers_MeshPart6
+    3300022: Barriers_MeshPart7
+    3300024: Barriers_MeshPart8
+    3300026: Big Banner 1
+    3300028: Big Banner 2
+    3300030: Court
+    3300032: Court Banners
+    3300034: Court Facing
+    3300036: Court Lines
+    3300038: Court Seat 01
+    3300040: Court Seat 02
+    3300042: Court Seat 03
+    3300044: Court Seat 04
+    3300046: Court Seat 05
+    3300048: Court Seat 06
+    3300050: Court Seat 07
+    3300052: Court Seat 08
+    3300054: Court Seat 09
+    3300056: Court Seat 10
+    3300058: Court Seat 11
+    3300060: Flag Animated
+    3300062: Fridge
+    3300064: Linesman Covers
+    3300066: Luxury Suites Tables
+    3300068: Match Time Clocks
+    3300070: Microphones
+    3300072: Net
+    3300074: Press Benches
+    3300076: Row Numbers
+    3300078: Score Screens
+    3300080: Security Cameras
+    3300082: Serve Speed Screens
+    3300084: Stadium Lighting_MeshPart0
+    3300086: Stadium Lighting_MeshPart1
+    3300088: Stadium Lighting_MeshPart2
+    3300090: Stair Steps
+    3300092: TV Bim 1
+    3300094: TV Bim 2
+    3300096: Umpire Chair
+    4300000: Stair Steps
+    4300002: Row Numbers
+    4300004: Barriers_MeshPart0
+    4300006: Barriers_MeshPart1
+    4300008: Barriers_MeshPart2
+    4300010: Barriers_MeshPart3
+    4300012: Barriers_MeshPart4
+    4300014: Barriers_MeshPart5
+    4300016: Barriers_MeshPart6
+    4300018: Barriers_MeshPart7
+    4300020: Barriers_MeshPart8
+    4300022: Stadium Lighting_MeshPart0
+    4300024: Stadium Lighting_MeshPart1
+    4300026: Stadium Lighting_MeshPart2
+    4300028: TV Bim 1
+    4300030: Flag Animated
+    4300032: TV Bim 2
+    4300034: Security Cameras
+    4300036: Luxury Suites Tables
+    4300038: Score Screens
+    4300040: Arena Banners
+    4300042: Big Banner 1
+    4300044: Big Banner 2
+    4300046: Match Time Clocks
+    4300048: Serve Speed Screens
+    4300050: Court
+    4300052: Net
+    4300054: Court Lines
+    4300056: Court Banners
+    4300058: Microphones
+    4300060: Court Seat 01
+    4300062: Fridge
+    4300064: Ball Container
+    4300066: Linesman Covers
+    4300068: Umpire Chair
+    4300070: Press Benches
+    4300072: Court Facing
+    4300074: Court Seat 02
+    4300076: Court Seat 03
+    4300078: Court Seat 04
+    4300080: Court Seat 05
+    4300082: Court Seat 06
+    4300084: Court Seat 07
+    4300086: Court Seat 08
+    4300088: Court Seat 09
+    4300090: Court Seat 10
+    4300092: Court Seat 11
+    4300094: Arena_MeshPart0
+    4300096: Arena_MeshPart1
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
